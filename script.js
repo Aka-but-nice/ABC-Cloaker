@@ -1,3 +1,4 @@
+document.getElementById("abc").onclick  = function () {
 var page = new ABC({
         type: "blank",
         url: "https://example.com",
@@ -88,3 +89,4 @@ var page = new ABC({
           } catch {}
         }
       }
+    }
