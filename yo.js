@@ -1,4 +1,4 @@
-document.getElementById("abc").onclick  = function () {
+document.getElementById("openpage").onclick = function () {
 var page = new ABC({
         type: "blank",
         url: "https://example.com",
